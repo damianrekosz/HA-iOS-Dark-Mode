@@ -2,7 +2,7 @@
 
 JuanMTech's theme with small changes.
 
-## Instalattion
+## Installation
 1. Go into the HACS.
 2. Select Frontend.
 3. Click the upper-right 3 dots.
