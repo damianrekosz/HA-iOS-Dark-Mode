@@ -1,5 +1,5 @@
 # Theme based on the JuanMTech's iOS Dark Mode Theme
-iOS Dark Mode:
+Modified iOS Dark Mode:
   # Header:
   app-header-background-color: var(--primary-background-color)
   app-header-text-color: rgb(229, 229, 234)
