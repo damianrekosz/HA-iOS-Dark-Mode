@@ -1,6 +1,6 @@
 # Modified iOS Dark Mode
 
-JuanMTech's theme with small changes.
+JuanMTech's theme with small changes.<br/>
 Original theme: https://github.com/JuanMTech/ios_dark_mode_theme
 
 
