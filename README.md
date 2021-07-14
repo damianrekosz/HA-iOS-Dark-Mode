@@ -12,6 +12,6 @@ Original theme: https://github.com/JuanMTech/ios_dark_mode_theme
 5. Paste URL of the theme (https://github.com/damianrekosz/Modified-iOS-Dark-Mode) and select Theme as Category.
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/35065498/125617547-6edb2141-5879-4863-a4f4-e160a37c571f.png)
+![image](https://user-images.githubusercontent.com/35065498/125620018-29b16700-b6cf-489a-8d86-2cbee4f53cb0.png)
 
 
