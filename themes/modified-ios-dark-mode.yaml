@@ -11,7 +11,7 @@ Modified iOS Dark Mode:
   divider-color: rgb(44, 44, 46)
   accent-color: rgb(10, 132, 255)
   # Text
-  primary-text-color: rgb(242, 242, 247)
+  primary-text-color: rgb(255, 255, 255)
   secondary-text-color: rgb(174, 174, 178)
   text-primary-color: var(--primary-text-color)
   disabled-text-color: rgb(72, 72, 74)
@@ -30,14 +30,14 @@ Modified iOS Dark Mode:
   state-icon-active-color: rgb(174, 174, 178)
   state-icon-unavailable-color: var(--disabled-text-color)
   # Sliders
-  paper-slider-knob-color: rgb(242, 242, 247)
+  paper-slider-knob-color: rgb(255, 255, 255)
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: rgb(10, 132, 255)
   paper-slider-active-color: rgb(10, 132, 255)
   paper-slider-secondary-color: var(--paper-slider-active-color)
   # Labels
   label-badge-background-color: rgb(28, 28, 30)
-  label-badge-text-color: rgb(242, 242, 247)
+  label-badge-text-color: rgb(255, 255, 255)
   label-badge-red: rgb(255, 69, 58)
   label-badge-green: rgb(48, 209, 88)
   label-badge-blue: rgb(10, 132, 255)
@@ -45,15 +45,15 @@ Modified iOS Dark Mode:
   label-badge-gray: rgb(72, 72, 74)
   # Cards
   card-background-color: rgb(28, 28, 30)
-  ha-card-border-radius: '10px'
+  ha-card-border-radius: '12px'
   ha-card-box-shadow: none
   paper-dialog-background-color: var(--card-background-color)
   paper-listbox-background-color: var(--card-background-color)
   paper-card-background-color: var(--card-background-color)
   # Switches
-  switch-checked-button-color: rgb(242, 242, 247)
+  switch-checked-button-color: rgb(255, 255, 255)
   switch-checked-track-color: rgb(10, 132, 255)
-  switch-unchecked-button-color: rgb(242, 242, 247)
+  switch-unchecked-button-color: rgb(255, 255, 255)
   switch-unchecked-track-color: rgb(99, 99, 102)
   # Toggles
   paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
