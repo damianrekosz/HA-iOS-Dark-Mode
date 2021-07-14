@@ -1,6 +1,8 @@
 # Modified iOS Dark Mode
 
 JuanMTech's theme with small changes.
+Original theme: https://github.com/JuanMTech/ios_dark_mode_theme
+
 
 ## Installation
 1. Go into the HACS.
@@ -11,8 +13,5 @@ JuanMTech's theme with small changes.
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/35065498/125617547-6edb2141-5879-4863-a4f4-e160a37c571f.png)
-
-Original theme: https://github.com/JuanMTech/ios_dark_mode_theme
-
 
 
