@@ -1,5 +1,4 @@
-# Modified iOS Dark Mode
-
+# Modified iOS Dark Mode Theme for Home Assistant
 JuanMTech's theme with small changes.<br/>
 Original theme: https://github.com/JuanMTech/ios_dark_mode_theme
 

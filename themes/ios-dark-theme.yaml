@@ -39,7 +39,7 @@ Modified iOS Dark Mode:
   label-badge-background-color: rgb(28, 28, 30)
   label-badge-text-color: rgb(255, 255, 255)
   label-badge-red: rgb(255, 69, 58)
-  label-badge-green: rgb(48, 209, 88)
+  label-badge-green: rgb(0, 128, 0)
   label-badge-blue: rgb(10, 132, 255)
   label-badge-yellow: rgb(255, 214, 10)
   label-badge-gray: rgb(72, 72, 74)
