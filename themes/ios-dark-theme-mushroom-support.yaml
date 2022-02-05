@@ -1,0 +1,96 @@
+iOS Dark Theme Mushroom Support:
+  # Header:
+  app-header-background-color: var(--primary-background-color)
+  app-header-text-color: rgb(229, 229, 234)
+  # Mushroom
+  mush-spacing: 12px
+  mush-rgb-red: 244, 67, 54
+  mush-rgb-pink: 233, 30, 99
+  mush-rgb-purple: 156, 39, 176
+  mush-rgb-deep-purple: 103, 58, 183
+  mush-rgb-indigo: 63, 81, 181
+  mush-rgb-blue: 33, 150, 243
+  mush-rgb-light-blue: 3, 169, 244
+  mush-rgb-cyan: 0, 188, 212
+  mush-rgb-teal: 0, 150, 136
+  mush-rgb-green: 76, 175, 80
+  mush-rgb-light-green: 139, 195, 74
+  mush-rgb-lime: 205, 220, 57
+  mush-rgb-yellow: 255, 235, 59
+  mush-rgb-amber: 255, 193, 7
+  mush-rgb-orange: 255, 152, 0
+  mush-rgb-deep-orange: 255, 87, 34
+  mush-rgb-brown: 121, 85, 72
+  mush-rgb-grey: 158, 158, 158
+  mush-rgb-blue-grey: 96, 125, 139
+  mush-rgb-black: 0, 0, 0
+  mush-rgb-white: 255, 255, 255
+  # Main Interface Colors
+  primary-color: rgb(10, 132, 255)
+  light-primary-color: var(--primary-color)
+  primary-background-color: rgb(0, 0, 0)
+  secondary-background-color: rgb(44, 44, 46)
+  divider-color: rgb(44, 44, 46)
+  accent-color: rgb(10, 132, 255)
+  # Text
+  primary-text-color: rgb(255, 255, 255)
+  rgb-primary-text-color: 255, 255, 255
+  secondary-text-color: rgb(174, 174, 178)
+  text-primary-color: var(--primary-text-color)
+  rgb-text-primary-color: 255, 255, 255
+  disabled-text-color: rgb(72, 72, 74)
+  # Sidebar Menu
+  sidebar-icon-color: rgb(199, 199, 204)
+  sidebar-text-color: var(--primary-text-color)
+  sidebar-background-color: rgb(28, 28, 30)
+  sidebar-selected-background-color: var(--primary-background-color)
+  sidebar-selected-icon-color: rgb(10, 132, 255)
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color))
+  # Buttons
+  paper-item-icon-color: rgb(174, 174, 178)
+  paper-item-icon-active-color: rgb(10, 132, 255)
+  # States and Badges
+  state-icon-color: rgb(10, 132, 255)
+  state-icon-active-color: rgb(174, 174, 178)
+  state-icon-unavailable-color: var(--disabled-text-color)
+  # Sliders
+  paper-slider-knob-color: rgb(255, 255, 255)
+  paper-slider-knob-start-color: var(--paper-slider-knob-color)
+  paper-slider-pin-color: rgb(10, 132, 255)
+  paper-slider-active-color: rgb(10, 132, 255)
+  paper-slider-secondary-color: var(--paper-slider-active-color)
+  # Labels
+  label-badge-background-color: rgb(28, 28, 30)
+  label-badge-text-color: rgb(255, 255, 255)
+  label-badge-red: rgb(255, 69, 58)
+  label-badge-green: rgb(0, 128, 0)
+  label-badge-blue: rgb(10, 132, 255)
+  label-badge-yellow: rgb(255, 214, 10)
+  label-badge-gray: rgb(72, 72, 74)
+  # Cards
+  card-background-color: rgb(28, 28, 30)
+  ha-card-border-radius: '12px'
+  ha-card-box-shadow: none
+  paper-dialog-background-color: var(--card-background-color)
+  paper-listbox-background-color: var(--card-background-color)
+  paper-card-background-color: var(--card-background-color)
+  # Switches
+  switch-checked-button-color: rgb(255, 255, 255)
+  switch-checked-track-color: rgb(10, 132, 255)
+  switch-unchecked-button-color: rgb(255, 255, 255)
+  switch-unchecked-track-color: rgb(99, 99, 102)
+  # Toggles
+  paper-toggle-button-checked-button-color: var(--switch-checked-button-color)
+  paper-toggle-button-checked-bar-color: var(--switch-checked-track-color)
+  paper-toggle-button-unchecked-button-color: var(--switch-unchecked-button-color)
+  paper-toggle-button-unchecked-bar-color: var(--switch-unchecked-track-color)
+  # Table
+  table-row-background-color: rgb(28, 28, 30)
+  table-row-alternative-background-color: rgb(44, 44, 46)
+  data-table-background-color: rgb(0, 0, 0)
+  # Dropdowns
+  material-background-color: rgb(28, 28, 30)
+  material-secondary-background-color: rgb(44, 44, 46)
+  mdc-theme-surface: var(--secondary-background-color)
+  # Pre/Code
+  markdown-code-background-color: rgb(58, 58, 60)
