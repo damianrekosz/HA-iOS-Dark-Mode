@@ -1,9 +1,8 @@
 Mushroom Black Theme:
   # HA variables
   ha-card-box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.16)
-  ha-card-border-radius:
-    12px
-    # Header:
+  ha-card-border-radius: 12px
+  # Header:
   app-header-background-color: var(--primary-background-color)
   app-header-text-color: rgb(229, 229, 234)
   # Main Interface Colors
@@ -79,3 +78,7 @@ Mushroom Black Theme:
   mush-rgb-state-person-not-home: var(--rgb-danger)
   mush-rgb-state-person-zone: var(--rgb-info)
   mush-rgb-state-person-unknown: var(--rgb-grey)
+
+  modes:
+    light: {}
+    dark: {}
