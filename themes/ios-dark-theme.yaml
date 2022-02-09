@@ -21,7 +21,7 @@ iOS Dark Theme:
   sidebar-background-color: rgb(28, 28, 30)
   sidebar-selected-background-color: var(--primary-background-color)
   sidebar-selected-icon-color: rgb(10, 132, 255)
-  sidebar-selected-text-color: var(--sidebar-selected-icon-color))
+  sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   # Buttons
   paper-item-icon-color: rgb(174, 174, 178)
   paper-item-icon-active-color: rgb(10, 132, 255)
