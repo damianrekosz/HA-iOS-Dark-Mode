@@ -132,3 +132,6 @@ Mushroom Black Theme:
   mush-rgb-state-person-not-home: var(--rgb-danger)
   mush-rgb-state-person-zone: var(--rgb-info)
   mush-rgb-state-person-unknown: var(--rgb-grey)
+  # Modes
+  modes:
+    dark: {}
