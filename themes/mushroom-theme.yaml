@@ -74,7 +74,7 @@ Mushroom Theme:
       divider-color: rgb(44, 44, 46)
       accent-color: rgb(10, 132, 255)
       # Text
-      primary-text-color: rgb(255, 255, 255)5
+      primary-text-color: rgb(255, 255, 255)
       secondary-text-color: rgb(174, 174, 178)
       text-primary-color: var(--primary-text-color)
       disabled-text-color: rgb(72, 72, 74)
