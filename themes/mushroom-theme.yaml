@@ -75,8 +75,10 @@ Mushroom Theme:
       accent-color: rgb(10, 132, 255)
       # Text
       primary-text-color: rgb(255, 255, 255)
+      rgb-primary-text-color: 255, 255, 255
       secondary-text-color: rgb(174, 174, 178)
       text-primary-color: var(--primary-text-color)
+      rgb-text-primary-color: 255, 255, 255
       disabled-text-color: rgb(72, 72, 74)
       # Sidebar Menu
       sidebar-icon-color: rgb(199, 199, 204)
