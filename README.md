@@ -8,6 +8,6 @@ Original theme: https://github.com/JuanMTech/ios-theme
 2. Select Frontend.
 3. Click the upper-right 3 dots.
 4. Select custom repositories.
-5. Paste URL of the theme (https://github.com/damianrekosz/Modified-iOS-Dark-Mode) and select Theme as Category.
+5. Paste URL of the theme (https://github.com/damianrekosz/Mushroom-Theme) and select Theme as Category.
 
 
