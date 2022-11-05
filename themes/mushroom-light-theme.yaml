@@ -7,7 +7,7 @@ Mushroom Light Theme:
   light-primary-color: var(--primary-color)
   primary-background-color: rgb(242, 242, 247)
   secondary-background-color: var(--primary-background-color)
-  divider-color: rgb(229, 229, 234)
+  divider-color: rgb(255, 255, 255)
   accent-color: rgb(0, 122, 255)
   # Text
   primary-text-color: rgb(28, 28, 30)
